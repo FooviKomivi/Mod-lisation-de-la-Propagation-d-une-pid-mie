@@ -1,6 +1,6 @@
 """
 Modèle SIR - Simulation de la Propagation d'une Maladie
-Auteur: Votre Nom
+Auteur: Foovi Komivi
 Date: 2026-02-06
 """
 
@@ -155,3 +155,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
