@@ -1,6 +1,6 @@
 """
 Modèle SIR Avancé - Analyses de Sensibilité et Scénarios Multiples
-Auteur: Votre Nom
+Auteur: Foovi Komivi
 Date: 2020-02-15
 """
 
@@ -167,3 +167,4 @@ def main_advanced():
 # -------------------------------
 if __name__ == "__main__":
     main_advanced()
+
