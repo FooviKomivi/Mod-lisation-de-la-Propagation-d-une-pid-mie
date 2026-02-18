@@ -1,7 +1,7 @@
 """
 Modèle SIR - Simulation de la Propagation d'une Maladie
 Auteur: Foovi Komivi
-Date: 2026-02-06
+Date: 2020-02-15
 """
 
 import numpy as np
@@ -155,4 +155,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
